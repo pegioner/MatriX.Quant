@@ -5,7 +5,7 @@
 
 # Установка на linux
 ```bash
-curl -s https://raw.githubusercontent.com/immisterio/MatriX.Quant/master/install.sh | bash
+curl -s https://raw.githubusercontent.com/pegioner/MatriX.Quant/master/install.sh | bash
 ```
 
 # accs.db
