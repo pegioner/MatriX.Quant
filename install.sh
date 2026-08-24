@@ -3,7 +3,7 @@ DEST="/opt/matrix"
 
 mkdir $DEST -p 
 cd $DEST
-wget https://github.com/immisterio/MatriX.Quant/releases/latest/download/TorrServer-linux-amd64
+wget https://github.com/pegioner/MatriX.Quant/releases/latest/download/TorrServer-linux-amd64
 chmod +x TorrServer-linux-amd64
 
 cat <<EOF > $DEST/settings.json
